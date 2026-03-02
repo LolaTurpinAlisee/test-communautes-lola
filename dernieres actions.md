@@ -10,3 +10,5 @@ L’association cherche à œuvrer en collaboration avec des organismes publics,
 « Nous avons la **parité** ! Plus d'actifs que de retraités. Tout le monde ne se connaissait pas au départ, les compétences de chacune et chacun s’imbriquent naturellement et nous nous sommes aperçus que nous avons des ressources vers la technique, la com, le numérique ou le budget. » 
 
 ![Collectif à la Bibliothèque]({% link images/e3917ad0-d608-11f0-8d30-2568a15c0014.-1-0x300-c-default.jpg %}) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aSRWte0Dsm0?si=fZPkK6LS_oOtSm0b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
